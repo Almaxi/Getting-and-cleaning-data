@@ -12,3 +12,4 @@ run_analysis.R contains all the code to perform the analyses described in the 5 
 CodeBook.md describes the data, and any transformations or work that was performed to clean up the data.
 
 The output is called averages_data.txt, and uploaded as a txt file created with write.table() using row.name=FALSE
+
